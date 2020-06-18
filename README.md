@@ -5,4 +5,5 @@ Make changes at the input of file by placing approriate path.
 
 Just RUN on Google Collab or Juptypr notebook.
 
-Note: Make sure you run the code iterativerly as some of the variables hold same names Example: Confusion Matrix.
+Note: Make sure you run the code iterativerly as some of the variables hold same names.
+Example: Confusion Matrix.
